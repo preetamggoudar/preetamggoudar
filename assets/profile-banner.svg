@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#1f2937" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4fd1a5"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#050505"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="2" stroke="#1f2937"/>
+
+  <rect x="58" y="58" width="184" height="184" rx="30" fill="#0a0a0a" stroke="#4fd1a5" stroke-width="2.5"/>
+  <text x="150" y="176" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" text-anchor="middle" fill="url(#accent)">PG</text>
+
+  <text x="282" y="137" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#f3f4f6">Preetam Goudar</text>
+  <text x="284" y="183" font-family="Menlo, Consolas, monospace" font-size="25" fill="#4fd1a5">AI &amp; ML Engineer-in-training</text>
+  <text x="285" y="222" font-family="Menlo, Consolas, monospace" font-size="19" fill="#9ca3af">Google Student Ambassador 2026  ·  Bengaluru, India</text>
+
+  <text x="1140" y="268" font-family="Menlo, Consolas, monospace" font-size="16" text-anchor="end" fill="#4fd1a5">$ build something meaningful_</text>
+</svg>
