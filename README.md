@@ -41,6 +41,7 @@ I like turning model experiments into things people can actually use — from vi
 
 Real, test-backed pull requests — currently open for maintainer review:
 
+- [transformers.js #1959](https://github.com/huggingface/transformers.js/pull/1959) — fixed `mean_pooling()` returning `NaN` for all-padding sequences; clamps the denominator and adds a regression test. **JavaScript**
 - [redact-sensitive #69](https://github.com/sharkohark1234/redact-sensitive/pull/69) — Hugging Face token (`hf_…`) redaction, with tests and docs. **JavaScript**
 - [redact-sensitive #70](https://github.com/sharkohark1234/redact-sensitive/pull/70) — PyPI API token (`pypi-…`) redaction, with tests and docs. **JavaScript**
 - [kicad-preflight #11](https://github.com/RakTikoo/kicad-preflight/pull/11) — Altium BOM supplier header aliases, synthetic sample and tests. **Python**
@@ -72,7 +73,7 @@ Real, test-backed pull requests — currently open for maintainer review:
 - **Google Student Ambassador 2026** — selected for the nationwide cohort (GID 16723); championing Google's AI ecosystem on campus.
 - **1st Place, Hack Day 2026** — Hacktoberfest Hack Day (MLH × DEV × DigitalOcean), with Team SnakeByte. Prize: ₹7,000.
 - **Smart India Hackathon 2026** — built solutions with a team around real-world problems.
-- **Learning in public** — open source, hackathons and peer-learning sessions; 3 test-backed PRs across JavaScript and Python projects.
+- **Learning in public** — open source, hackathons and peer-learning sessions; test-backed PRs across Hugging Face, JavaScript and Python projects.
 
 ## 📊 GitHub stats
 
