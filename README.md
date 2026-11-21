@@ -58,6 +58,7 @@ Real, test-backed pull requests — currently open for maintainer review:
 [![Gradio](https://img.shields.io/badge/Gradio-F67B7B?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![RAG](https://img.shields.io/badge/RAG-4fd1a5?style=for-the-badge)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
